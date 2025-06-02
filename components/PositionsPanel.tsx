@@ -108,3 +108,4 @@ export default function PositionsPanel({ positions }: PositionsPanelProps) {
 // Unit feature implementation - 20250508_0108
 // Unit feature implementation - 20250509_0111
 // Unit feature implementation - 20250527_0142
+// Unit feature implementation - 20250602_0152
