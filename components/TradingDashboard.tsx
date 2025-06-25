@@ -37,3 +37,4 @@ export default function TradingDashboard({ positions, prompts, decisions }: Trad
 // Unit feature implementation - 20250507_0107
 // Unit feature implementation - 20250519_0128
 // Unit feature implementation - 20250521_0134
+// Unit feature implementation - 20250625_0189
